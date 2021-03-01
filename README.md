@@ -12,9 +12,9 @@ As a employee with a busy schedule I need to add important events to a daily pla
 
 You can use this by following the link below.
 
+https://gonzalezg97.github.io/homework-wk5-dayplanner/index.html
 
-
-
+![screenshot](Assets/screenshots/capture.PNG)
 
 
 ### Credits
